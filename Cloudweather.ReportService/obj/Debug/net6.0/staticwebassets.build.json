@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gNvlpLb5k0i4RbPhHbmasn3QqJAaCDZ4ylLK5D9jZCo=",
+  "Source": "Cloudweather.ReportService",
+  "BasePath": "_content/Cloudweather.ReportService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SMfYhAFNOUl+CgWY/sCy0nLgUkBn6jYtILD+/2w4QE4=",
+  "Source": "Cloudweather.Precipitation",
+  "BasePath": "_content/Cloudweather.Precipitation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
